@@ -60,3 +60,25 @@ Para replicar os resultados, siga os seguintes passos:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/<seu-usuario>/luiz-fernando-mg-consultoria.git
+
+2. Instale as dependências necessárias
+   ```bash
+   pip install pandas basedosdados matplotlib numpy
+
+3. Acesse o notebook ```consulta_dados_basedosdados.ipynb``` para extrair os dados do BigQuery e salvar o CSV.
+4. Carregue o notebook ```analise_dados_empresas_importadoras.ipynb``` e execute as células para obter a análise final.
+
+## Resultados Finais
+
+O arquivo final gerado é o ```top10_empresas_importadoras_cobre_2020.csv```, contendo as seguintes colunas:
+* CNPJ: Identificador único da empresa.
+* Razão Social: Nome da empresa.
+* Município: Localização da empresa no estado de Minas Gerais.
+* Peso Cobre Ajustado (kg): Quantidade de cobre importada ajustada proporcionalmente.
+* Valor FOB Ajustado (USD): Valor FOB ajustado proporcionalmente.
+
+## Autor
+Desenvolvido por Luiz Fernando MG Consultoria. Se precisar de mais detalhes ou desejar aplicar esta metodologia para outros estados ou setores, entre em contato!
+
+
+
