@@ -78,7 +78,7 @@ O arquivo final gerado é o ```top10_empresas_importadoras_cobre_2020.csv```, co
 * Valor FOB Ajustado (USD): Valor FOB ajustado proporcionalmente.
 
 ## Autor
-Desenvolvido por Luiz Fernando MG Consultoria. Se precisar de mais detalhes ou desejar aplicar esta metodologia para outros estados ou setores, entre em contato!
+Desenvolvido por Leonardo Oliveira para Luiz Fernando MG Consultoria. Se precisar de mais detalhes ou desejar aplicar esta metodologia para outros estados ou setores, entre em contato comigo!
 
 
 
